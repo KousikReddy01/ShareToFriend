@@ -1,7 +1,7 @@
 package com.interfaceprograms.javaproject;
 
-public interface TestD {
+public interface TestE {
 	
-	void funD();
+	void funE();
 
 }
